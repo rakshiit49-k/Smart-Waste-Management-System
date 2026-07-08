@@ -41,7 +41,7 @@ int main(){
     return 0;
 }*/
 
-int primeSum(int n){
+/*int primeSum(int n){
     int sum=0;
     int flag;
     for(int i=2;i<=n;i++){
@@ -63,4 +63,4 @@ int main(){
     cin>>num;
     cout<<"The prime sum is  : "<<primeSum(num);
     return 0;
-}
+}*/
